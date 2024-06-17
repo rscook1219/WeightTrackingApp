@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjectTwo</string>
+    <string name="application_name">WeightLoss App</string>
+    <string name="login">Login</string>
+    <string name="enter_weight_data">Weight Entry</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_date">mm/dd/yyyy</string>
+    <string name="enter_weight">Log Weight</string>
+    <string name="submit_button">Submit</string>
+    <string name="add_weight">Enter</string>
+    <string name="WeightEdit">Logged Weights</string>
+    <string name="create_account">Create an Account</string>
+</resources>
